@@ -1,4 +1,4 @@
-Inspiration
+<h1>Inspiration</h1>
 The imminently or newly homeless often need help immediately, and do not know what or where the resources are availability. We believe connecting these individuals with a nearby shelter and resources as quickly as possible, before situations get worse, can provide significant improvements in outcomes.
 
 What it does
